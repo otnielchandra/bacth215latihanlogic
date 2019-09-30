@@ -1,0 +1,6 @@
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\bin\Debug\caLatihanDay0402.exe.config
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\bin\Debug\caLatihanDay0402.exe
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\bin\Debug\caLatihanDay0402.pdb
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\obj\Debug\caLatihanDay0402.csprojResolveAssemblyReference.cache
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\obj\Debug\caLatihanDay0402.exe
+E:\batch215\day04\sLatihanDay04\caLatihanDay0402\obj\Debug\caLatihanDay0402.pdb

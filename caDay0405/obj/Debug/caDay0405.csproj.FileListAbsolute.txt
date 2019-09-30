@@ -1,0 +1,5 @@
+E:\batch215\day04\sLatihanDay04\caDay0405\bin\Debug\caDay0405.exe.config
+E:\batch215\day04\sLatihanDay04\caDay0405\bin\Debug\caDay0405.exe
+E:\batch215\day04\sLatihanDay04\caDay0405\bin\Debug\caDay0405.pdb
+E:\batch215\day04\sLatihanDay04\caDay0405\obj\Debug\caDay0405.exe
+E:\batch215\day04\sLatihanDay04\caDay0405\obj\Debug\caDay0405.pdb
